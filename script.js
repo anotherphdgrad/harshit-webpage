@@ -130,7 +130,7 @@ const experiences = [
     {
         role: 'Research Scientist (AI/ML) Intern',
         organization: 'Optum',
-        dates: 'June 2026-Current',
+        dates: 'June 2026-Present',
         details: [
             'Work on applied AI/ML research and development in a healthcare technology setting.'
         ]
