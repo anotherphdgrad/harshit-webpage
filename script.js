@@ -128,6 +128,14 @@ const publicationGroups = [
 
 const experiences = [
     {
+        role: 'Research Scientist (AI/ML) Intern',
+        organization: 'Optum',
+        dates: 'June 2026-Current',
+        details: [
+            'Work on applied AI/ML research and development in a healthcare technology setting.'
+        ]
+    },
+    {
         role: 'Graduate Research Associate - Fulton Fellowship',
         organization: 'School of Computing and Augmented Intelligence, Arizona State University',
         dates: '2024-Present',
