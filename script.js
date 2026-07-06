@@ -27,7 +27,7 @@ const publicationGroups = [
                 authors: 'Harshit Sharma*, Shaily Roy*, and Asif Salekin',
                 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies',
                 venueNote: "'csrankings' listed Top Conference",
-                link: 'https://arxiv.org/abs/2404.19725'
+                link: 'https://dl.acm.org/doi/10.1145/3810232'
             },
             {
                 status: 'Published - IMWUT 2025',
